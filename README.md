@@ -8,7 +8,8 @@
 <p align="left">
 <a href="https://t.me/VDen89"><img border-radius='5px' src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge'></a>  <a href="https://www.linkedin.com/in/denis-vakulenko-223b7b237/"><img border-radius='5px' src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'></a>
 </p> 
-- 📫 e-mail: dsvakulenko89@yandex.ru
+
+ 📫 e-mail: dsvakulenko89@yandex.ru
 
 #### 👨‍💻 About me:
 - interested to learn new technologies, find a good company and any collaborations for useful expirience
